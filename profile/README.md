@@ -23,4 +23,4 @@ This organization showcases **Bachelor's and Master's thesis projects** develope
 
 ---
 
-*Securing tomorrow's technology today through student research.*
+*Securing tomorrow's technology today*
