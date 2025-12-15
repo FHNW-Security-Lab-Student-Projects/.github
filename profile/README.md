@@ -18,8 +18,9 @@ This organization showcases **Bachelor's and Master's thesis projects** develope
 ## 🔗 Related
 
 - 🔬 [FHNW Security Lab](https://github.com/FHNW-Security-Lab) - Our research organization
-- 🎓 [FHNW Security Education](https://github.com/FHNW-security-education) - Educational materials
 - 🌐 [FHNW](https://www.fhnw.ch) - University of Applied Sciences and Arts Northwestern Switzerland
+
+---
 
 ---
 
